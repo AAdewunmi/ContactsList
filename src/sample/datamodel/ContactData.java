@@ -2,7 +2,6 @@ package sample.datamodel;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-
 import javax.xml.stream.XMLEventFactory;
 import javax.xml.stream.XMLEventReader;
 import javax.xml.stream.XMLEventWriter;
@@ -23,7 +22,6 @@ import java.io.InputStream;
 public class ContactData {
 
     private static final String CONTACTS_FILE = "contacts.xml";
-
     private static final String CONTACT = "contact";
     private static final String FIRST_NAME = "first_name";
     private static final String LAST_NAME = "last_name";
