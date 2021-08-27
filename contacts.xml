@@ -7,12 +7,6 @@
 	<notes>Pop Star</notes>
 </contact>
 <contact>
-	<first_name>Justin </first_name>
-	<last_name>Bieber</last_name>
-	<phone_number>+2913309</phone_number>
-	<notes>Pop Star</notes>
-</contact>
-<contact>
 	<first_name>Justin</first_name>
 	<last_name>Trudeau</last_name>
 	<phone_number>+9928765</phone_number>
@@ -23,5 +17,11 @@
 	<last_name>Upton</last_name>
 	<phone_number>+2097667</phone_number>
 	<notes>Football Player</notes>
+</contact>
+<contact>
+	<first_name>Justin </first_name>
+	<last_name>Bieber</last_name>
+	<phone_number>+1299876</phone_number>
+	<notes>Mega Pop Star</notes>
 </contact>
 </contacts>
